@@ -1,0 +1,1 @@
+json_path = 'C:\\Users\\User\\PycharmProjects\\HoloHack2.0\\HoloAPI\\ServisHoloAPI\\offices_pep.json'
